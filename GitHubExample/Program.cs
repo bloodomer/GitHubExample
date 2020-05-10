@@ -11,7 +11,7 @@ namespace GitHubExample
         static void Main(string[] args)
         {
 
-            //sfsfd
+            Console.WriteLine("Ömer Deniz");
         }
     }
 }
